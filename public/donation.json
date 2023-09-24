@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "picture": "https://i.ibb.co/jkmhf96/3.png",
+        "title": "Supporting Healthcare Access",
+        "category": "Health",
+        "category_bg": "#0052FF33",
+        "card_bg": "#0052FF26",
+        "text_and_button_bg": "#0052FF",
+        "description": "Your contribution to our campaign ensures that quality healthcare is accessible to all. Together, we create a healthier future, providing care and support for those in need.",
+        "price": 250
+    },
+    {
+        "id": 2,
+        "picture": "https://i.ibb.co/mbGLKDr/2.png",
+        "title": "Empowering Quality Education",
+        "category": "Education",
+        "category_bg": "#FF444A33",
+        "card_bg": "#FF444926",
+        "text_and_button_bg": "#0052FF",
+        "description": "Our initiative aims to shape brighter futures through education. By investing in learning, we unlock opportunities, igniting a passion for knowledge.",
+        "price": 320
+    },
+    {
+        "id": 3,
+        "picture": "https://i.ibb.co/9HVWzcD/4.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg": "#79C23F33",
+        "card_bg": "#79C23F26",
+        "text_and_button_bg": "#79C23F",
+        "description": "Join our campaign to extend warmth and kindness. We aim to provide comfort during cold seasons by collecting gently worn clothes. Your support helps vulnerable individuals and families stay cozy.",
+        "price": 280
+    },
+    {
+        "id": 4,
+        "picture": "https://i.ibb.co/Q6Y0fQZ/1.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "category_bg": "#F8714733",
+        "card_bg": "#F8714726",
+        "text_and_button_bg": "#F87147",
+        "description": "Our campaign fights hunger as a united force. Your contribution nourishes families in your community, ensuring access to improved meals and changing lives for the better.",
+        "price": 290
+    },
+    {
+        "id": 5,
+        "picture": "https://i.ibb.co/jkmhf96/3.png",
+        "title": "Access to Quality Healthcare",
+        "category": "Health",
+        "category_bg": "#0052FF33",
+        "card_bg": "#0052FF26",
+        "text_and_button_bg": "#0052FF",
+        "description": "With our initiative, we aim to make healthcare accessible to all. Your support creates a healthier future, providing care and support for those in need.",
+        "price": 230
+    },
+    {
+        "id": 6,
+        "picture": "https://i.ibb.co/mbGLKDr/2.png",
+        "title": "Fostering Good Education",
+        "category": "Education",
+        "category_bg": "#FF444A33",
+        "card_bg": "#FF444926",
+        "text_and_button_bg": "#0052FF",
+        "description": "Our initiative strives for brighter futures. By investing in education, we unlock opportunities and ignite a passion for learning, empowering students to excel.",
+        "price": 310
+    },
+    {
+        "id": 7,
+        "picture": "https://i.ibb.co/9HVWzcD/4.png",
+        "title": "Helping Those in Need with Clothing",
+        "category": "Clothing",
+        "category_bg": "#79C23F33",
+        "card_bg": "#79C23F26",
+        "text_and_button_bg": "#79C23F",
+        "description": "Join our campaign to extend warmth and kindness. Your support helps vulnerable individuals and families stay cozy during cold seasons.",
+        "price": 270
+    },
+    {
+        "id": 8,
+        "picture": "https://i.ibb.co/Q6Y0fQZ/1.png",
+        "title": "Aiding Hunger Relief Efforts",
+        "category": "Food",
+        "category_bg": "#F8714733",
+        "card_bg": "#F8714726",
+        "text_and_button_bg": "#F87147",
+        "description": "In our campaign, we unite to fight hunger. Your contribution nourishes families in your community, ensuring access to better meals and changing lives.",
+        "price": 220
+    },
+    {
+        "id": 9,
+        "picture": "https://i.ibb.co/jkmhf96/3.png",
+        "title": "Improving Access to Healthcare",
+        "category": "Health",
+        "category_bg": "#0052FF33",
+        "card_bg": "#0052FF26",
+        "text_and_button_bg": "#0052FF",
+        "description": "Our initiative is a shared journey. By working together, we aim to make quality healthcare accessible to everyone, providing a lifeline of care and support.",
+        "price": 270
+    },
+    {
+        "id": 10,
+        "picture": "https://i.ibb.co/mbGLKDr/2.png",
+        "title": "Empowering Quality Learning",
+        "category": "Education",
+        "category_bg": "#FF444A33",
+        "card_bg": "#FF444926",
+        "text_and_button_bg": "#0052FF",
+        "description": "With our initiative, we invest in education for a brighter future. Your support unlocks opportunities, ignites a love for learning, and empowers students to excel.",
+        "price": 330
+    },
+    {
+        "id": 11,
+        "picture": "https://i.ibb.co/9HVWzcD/4.png",
+        "title": "Donating Used Clothing",
+        "category": "Clothing",
+        "category_bg": "#79C23F33",
+        "card_bg": "#79C23F26",
+        "text_and_button_bg": "#79C23F",
+        "description": "Our campaign is an act of warmth and kindness. Your contributions help those in need stay cozy during cold seasons, providing comfort and care.",
+        "price": 240
+    },
+    {
+        "id": 12,
+        "picture": "https://i.ibb.co/Q6Y0fQZ/1.png",
+        "title": "Serving Better Meals for All",
+        "category": "Food",
+        "category_bg": "#F8714733",
+        "card_bg": "#F8714726",
+        "text_and_button_bg": "#F87147",
+        "description": "Join us to combat hunger collectively. Your support ensures nourishment for families in your community, offering access to improved meals and changing lives for the better.",
+        "price": 320
+    }
+]
