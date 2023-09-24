@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "picture": "https://i.ibb.co/jkmhf96/3.png",
+        "picture": "https://i.ibb.co/yQD5JJs/31.png",
         "title": "Supporting Healthcare Access",
         "category": "Health",
         "category_bg": "#0052FF33",
@@ -13,11 +13,11 @@
     {
         "id": 2,
         "picture": "https://i.ibb.co/mbGLKDr/2.png",
-        "title": "Empowering Quality Education",
+        "title": "Good education",
         "category": "Education",
         "category_bg": "#FF444A33",
         "card_bg": "#FF444926",
-        "text_and_button_bg": "#0052FF",
+        "text_and_button_bg": "#FF444A",
         "description": "Our initiative aims to shape brighter futures through education. By investing in learning, we unlock opportunities, igniting a passion for knowledge.",
         "price": 320
     },
@@ -45,7 +45,7 @@
     },
     {
         "id": 5,
-        "picture": "https://i.ibb.co/jkmhf96/3.png",
+        "picture": "https://i.ibb.co/yQD5JJs/31.png",
         "title": "Access to Quality Healthcare",
         "category": "Health",
         "category_bg": "#0052FF33",
@@ -61,14 +61,14 @@
         "category": "Education",
         "category_bg": "#FF444A33",
         "card_bg": "#FF444926",
-        "text_and_button_bg": "#0052FF",
+        "text_and_button_bg": "#FF444A",
         "description": "Our initiative strives for brighter futures. By investing in education, we unlock opportunities and ignite a passion for learning, empowering students to excel.",
         "price": 310
     },
     {
         "id": 7,
         "picture": "https://i.ibb.co/9HVWzcD/4.png",
-        "title": "Helping Those in Need with Clothing",
+        "title": "Helping Needy with Clothing",
         "category": "Clothing",
         "category_bg": "#79C23F33",
         "card_bg": "#79C23F26",
@@ -89,7 +89,7 @@
     },
     {
         "id": 9,
-        "picture": "https://i.ibb.co/jkmhf96/3.png",
+        "picture": "https://i.ibb.co/yQD5JJs/31.png",
         "title": "Improving Access to Healthcare",
         "category": "Health",
         "category_bg": "#0052FF33",
@@ -105,7 +105,7 @@
         "category": "Education",
         "category_bg": "#FF444A33",
         "card_bg": "#FF444926",
-        "text_and_button_bg": "#0052FF",
+        "text_and_button_bg": "#FF444A",
         "description": "With our initiative, we invest in education for a brighter future. Your support unlocks opportunities, ignites a love for learning, and empowers students to excel.",
         "price": 330
     },
