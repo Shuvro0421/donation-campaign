@@ -8,6 +8,7 @@ import {
 import Root from './components/Root/Root';
 import Home from './components/Home/Home';
 import Donation from './components/Donation/Donation';
+import DonationDetails from './components/DonationDetails/DonationDetails';
 
 
 const router = createBrowserRouter([
@@ -23,6 +24,11 @@ const router = createBrowserRouter([
       {
         path : "/donation",
         element : <Donation></Donation>
+      },
+      {
+        path : "/donationDetails/:id",
+        element : <DonationDetails></DonationDetails>,
+        loader : () => fetch('/donation.json'),
       }
     ]
   },
