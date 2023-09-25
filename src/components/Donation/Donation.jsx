@@ -32,7 +32,7 @@ const Donation = () => {
                             }
                         </div>
                         {
-                            donations.length > 4 && <div onClick={() => setIsShowMore(!isShowMore)} className="flex items-center justify-center mt-10"><button className="btn bg-[#009444] normal-case hover:bg-[#0c4f2b] border-none text-white font-semibold">{isShowMore ? 'See Less' : 'See All'}</button></div>
+                            !isShowMore && donations.length > 4 && <div className="flex items-center justify-center mt-10"><button onClick={() => setIsShowMore(true)} className="btn bg-[#009444] normal-case hover:bg-[#0c4f2b] border-none text-white font-semibold">See All</button></div>
                         }
                     </div>
             }
