@@ -28,9 +28,7 @@ const Satistics = () => {
 
     return (
         <div>
-            <h1>Your Donation: {YourDonation}, Total Donation: {TotalDonation}</h1>
-            <h1>Donated in: {localStorageDonation.length}</h1>
-            <div className='border-2'>
+            <div className='mt-10'>
                 <ResponsiveContainer width="100%" height={400}>
                     <PieChart>
                         <Pie
@@ -39,16 +37,16 @@ const Satistics = () => {
                             cy="50%"
                             labelLine={false}
                             label={renderCustomizedLabel}
-                            outerRadius={80}
+                            outerRadius={window.innerWidth >= 768 ? 150 : 100}
                             fill="#FF444A"
                             dataKey="value"
-                            className='text-xs'
+                            className='md:text-xl text-base font-semibold'
                         >
                             {datas.map((entry, index) => (
                                 <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
                             ))}
                         </Pie>
-                        <Legend />
+                        <Legend/>
                     </PieChart>
                 </ResponsiveContainer>
             </div>
