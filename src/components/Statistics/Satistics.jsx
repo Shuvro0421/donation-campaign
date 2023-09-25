@@ -46,7 +46,7 @@ const Satistics = () => {
                                 <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
                             ))}
                         </Pie>
-                        <Legend/>
+                        <Legend />
                     </PieChart>
                 </ResponsiveContainer>
             </div>
