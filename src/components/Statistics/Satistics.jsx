@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { PieChart, Pie, Cell, ResponsiveContainer, Legend } from 'recharts';
 
@@ -46,7 +47,8 @@ const Satistics = () => {
                                 <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
                             ))}
                         </Pie>
-                        <Legend />
+                        <Legend/>
+                    
                     </PieChart>
                 </ResponsiveContainer>
             </div>

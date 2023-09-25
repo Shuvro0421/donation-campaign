@@ -1,8 +1,9 @@
-# React + Vite
+# Donation Campaign
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Project Features
+- Has routes which can link to next pages
+- All 4 categories has different matching color
+- Clicking in a donation card leads to details
+- In the details section , clicking on donate dollars will add that card to the donation route
+- There is also a beautiful pie chart in which the data is shown based on the users total donation and the remaining total donation
+- It is responsive to all devices . It can be beautiful everywhere 
