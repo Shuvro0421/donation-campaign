@@ -1,8 +1,16 @@
+// import { useEffect } from "react";
+// import { useState } from "react";
 import { useLoaderData } from "react-router-dom";
 import BannerImage from "../../assets/images/bg.png"
 import DonationCard from "../DonationCard/DonationCard";
 const Home = () => {
     const donations = useLoaderData();
+    // const [searchs , setSearchs] = useState([]);
+    // useEffect(() =>{
+    //     let search = 'Health';
+    //     const gotSearch = donations.filter(donation => donation.category === search);
+    //     setSearchs(gotSearch);
+    // } , [])
     return (
         <div className="z-0">
             <div className="hero min-h-screen" style={{ backgroundImage: `url(${BannerImage})` }}>
